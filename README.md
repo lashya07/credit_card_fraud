@@ -45,20 +45,6 @@ Credit-Card-Fraud-Risk-Analysis/
 └── dataset
 ```
 
----
-
-## 📷 Dashboard Preview
-
-*Add dashboard screenshots here after uploading.*
-
-Example:
-
-```markdown
-![Dashboard Screenshot](images/dashboard.png)
-
-```
-
----
 
 ## 📊 Key Insights
 
